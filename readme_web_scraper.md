@@ -1,5 +1,9 @@
 # 🕷️ Web Scraper Project - `Web_scraper_main2.ipynb`
+**Automated News Collection & Analysis System**
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ## 📌 Project Overview
 
 This project is a **web scraping notebook** developed in Python, designed to extract data from news websites or blogs. The goal is to collect articles or structured content and output the information in a usable format such as Markdown, JSON, or CSV.
