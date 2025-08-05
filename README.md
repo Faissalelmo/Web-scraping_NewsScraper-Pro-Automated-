@@ -13,7 +13,7 @@ The code utilizes various Python libraries to send HTTP requests, parse HTML pag
 ---
 ## 📊 Architecture Diagram
 
-![Architecture Diagram](/ArchitectureDiagram.png)
+![Architecture Diagram](https://github.com/yourusername/reponame/raw/main/ArchitectureDiagram.png)
 
 ## 🛠️ Features
 
