@@ -7,6 +7,9 @@ This project is a **web scraping notebook** developed in Python, designed to ext
 The code utilizes various Python libraries to send HTTP requests, parse HTML pages, extract specific elements, and format the output for downstream tasks (like feeding it to workflows in automation platforms like n8n).
 
 ---
+## 📊 Architecture Diagram
+
+![Scraping Engine Flowchart](./deepseek_mermaid_20250805_dbae2d.png)
 
 ## 🛠️ Features
 
