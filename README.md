@@ -13,7 +13,7 @@ The code utilizes various Python libraries to send HTTP requests, parse HTML pag
 ---
 ## 📊 Architecture Diagram
 
-![Scraping Engine Flowchart](./deepseek_mermaid_20250805_dbae2d.png)
+![Scraping Engine Flowchart](./Architecture Diagram.png)
 
 ## 🛠️ Features
 
