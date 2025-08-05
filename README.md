@@ -13,7 +13,7 @@ The code utilizes various Python libraries to send HTTP requests, parse HTML pag
 ---
 ## 📊 Architecture Diagram
 
-![Scraping Engine Flowchart](Architecture Diagram.png)
+image: "/Architecture Diagram.png"
 
 ## 🛠️ Features
 
