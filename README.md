@@ -1069,21 +1069,13 @@ print(failed['reason'].value_counts())
 4. **Run Tests** - Verify installation: `pytest tests/` (if added)
 5. **Search Issues** - GitHub Issues may have similar problems
 
-### Contact & Support
-
-**For questions, bugs, or features:**
-- 📧 **Email**: contact@example.com
-- 🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)
-- 💻 **GitHub**: [@YourUsername](https://github.com)
-- 🌐 **Website**: [yourwebsite.com](https://example.com)
-
 ---
 
 ## 👤 Author
 
-**Your Name**
+**Faissal ELMOKADDEM**
 
-Software Engineer | Web Scraping Specialist | Data Automation
+Data Scientist | Web Scraping Specialist | Data Automation
 
 ### Expertise
 - 🕸️ **Web Scraping** : BeautifulSoup4, Playwright, Requests
