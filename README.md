@@ -71,10 +71,6 @@ Organizations collecting news data face critical challenges:
 
 ## 🚀 Methodology & Architecture
 
-<p align="center">
-  <img src="Architecture_Diagram.png" alt="Architecture Diagram" width="900"/>
-</p>
-
 ### Data Pipeline Architecture
 
 ```
@@ -1103,11 +1099,10 @@ Software Engineer | Web Scraping Specialist | Data Automation
 - **Data Pipeline Tools** - Automated ETL systems
 
 ### Social Networks
-- 📧 **Email** : your.email@example.com
-- 🔗 **LinkedIn** : [linkedin.com/in/yourprofile](https://linkedin.com)
-- 💻 **GitHub** : [github.com/YourUsername](https://github.com)
-- 🌐 **Portfolio** : [yourportfolio.com](https://example.com)
-
+- 📧 **Email** : faissalelmokaddem@gmail.com
+- 🔗 **LinkedIn** : [linkedin_profile](https://linkedin.com/in/faissal-elmokaddem)
+- 💻 **GitHub** : [GitHub Repo](https://github.com/Faissalelmo/Web-scraping_NewsScraper-Pro-Automated-) - Explore the code
+- 🌐 **Portfolio** : [Portfolio](https://faissal-s-portfolio.vercel.app/) - Explore my portfolio
 ---
 
 ## 📜 License
@@ -1217,7 +1212,7 @@ Contributions are welcome! Please:
 
 ---
 
-**Last Updated:** November 23, 2024  
+**Last Updated:** September 23, 2025  
 **Version:** 2.0  
 **Status:** Production Ready ✅
 
