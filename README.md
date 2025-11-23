@@ -24,9 +24,8 @@
 - 🔄 **n8n compatible** - Direct workflow integration
 
 <p align="center">
-  <img src="Architecture_Diagram.png" alt="Architecture Diagram" width="700"/>
+  <img src="Images\Architecture_Diagram.png" alt="Architecture Diagram" width="700"/>
 </p>
-
 ---
 
 ## 📋 Table of Contents
